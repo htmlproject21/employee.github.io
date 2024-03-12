@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+	header  nav a{
+		text-decoration: none;
+		margin-right: 55px;
+		font-size: 30px;
+		color: black;
+	}
+	header li{
+		display: inline;
+	}
+	header{
+		
+		margin-top: 5px;
+		border-top-style: solid;
+		border-bottom-style: solid;
+		background-color: orange;
+	}
+	body{
+		background-image: url(Images/bgimg2.jpg);
+		
+	}
+	#fi{
+		font-size: 50px;
+		background-color: white;
+		margin-right:300px;
+		margin-left:300px;
+		margin-top: 0px;
+		margin-bottom: 5px;
+	}
+	
+	
